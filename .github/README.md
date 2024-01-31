@@ -59,7 +59,7 @@
   <a href="https://www.facebook.com/namozmamadkarimov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https:/www.telegram.com/NamozMuhammadkarim" target="_blank">
+  <a href="https://www.facebook.com/namozmamadkarimov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://twitter.com/nmuhammadkarim" target="_blank">
