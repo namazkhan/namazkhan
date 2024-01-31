@@ -68,7 +68,7 @@
   <a href="https://www.paypal.com/paypalme/qurantime99" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
-  <a href="https:/www.youtube.com/@namazmuhammadkarim." target="_blank">
+  <a href="https:/www.youtube.com/@namazmuhammadkarim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
