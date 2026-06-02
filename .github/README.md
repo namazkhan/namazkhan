@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Font-end Developer!</h2> <h3 align="center">A passionate frontend developer from Earth 🌍</h3>
+<h2 align="center">Hi 👋, I'm Font-end Developer!</h2> <h3 align="center">A passionate Frontend and UX/UI developer from Earth 🌍</h3>
 
 ###
 
